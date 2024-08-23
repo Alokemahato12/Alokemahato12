@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aloke Mahato</h1>
 <h3 align="center">Full - Stack Web Developer</h3>
-<img align ="center" alt =" Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokemahato12" alt="alokemahato12" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Chat Application**
